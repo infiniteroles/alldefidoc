@@ -4,62 +4,6 @@ This documentation provides a comprehensive overview of the ALLDEFI project, inc
 
   
 
-**Table of Contents**
-
-  
-
-1.  **Introduction**
-
-•  Purpose of the Project
-
-•  How ALLDEFI Works
-
-•  Credentials
-
-•  Technologies Used
-
-2.  **Installation Guide**
-
-•  Prerequisites
-
-•  Installation Steps
-
-3.  **Project Structure**
-
-•  Directory Overview
-
-4.  **System Functionality**
-
-•  Main Flows
-
-•  Diagrams
-
-•  Entity-Relationship (ER) Model
-
-5.  **Usage Guide**
-
-•  Running the Application
-
-•  Managing Data
-
-6.  **API Reference**
-
-•  Endpoints
-
-•  Authentication
-
-7.  **Testing**
-
-•  Running Tests
-
-8.  **Contributing**
-
-•  How to Contribute
-
-9.  **Frequently Asked Questions (FAQ)**
-
-10.  **Contact Information**
-
   
 
 ## **1. Introduction**
