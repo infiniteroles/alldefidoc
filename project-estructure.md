@@ -1,6 +1,10 @@
+---
+icon: traffic-cone
+---
+
 # Project Estructure
 
-**Directory Overview**
+## **1. Directory Overview**
 
 The project follows the standard Laravel application structure with custom directories for specific functionalities.
 
@@ -106,9 +110,9 @@ ALLDEFI/
 
 • **routes/admin.php**: Routes specific to the admin panel.
 
-## **4. System Functionality**
+## **2. System Functionality**
 
-**4.1 User Functionalities**
+**2.1 User Functionalities**
 
 • **Registration and Login**: Users can create an account by providing their personal information and secure credentials. Once registered, they can log in to the system to access its features.
 
@@ -124,7 +128,7 @@ ALLDEFI/
 
 • **Withdrawals**: Users can request the withdrawal of available funds in their account, whether in cryptocurrencies or fiat currency, following established procedures.
 
-**4.2 Administration Functionalities**
+**2.2 Administration Functionalities**
 
 • **Product Management**: Administrators can create, modify, and delete financial products available for investment, setting characteristics such as interest rates, terms, and conditions.
 
@@ -142,54 +146,8 @@ ALLDEFI/
 
 • **Product Audit and Valuation**: Periodic audits on financial products, evaluating their performance, regulatory compliance, and conducting updated valuations for decision-making.
 
-**4.3 Diagrams**
+**2.3 Diagrams**
 
 TBD _(Placeholder for including diagrams in PNG format.)_
 
-## **5. Code Guide**
-
-**5.1 Source Info**
-
-**Backend**
-
-Esta sección contiene la documentación generada automáticamente para el backend de Laravel. Haz clic en las secciones a continuación para explorar los detalles.
-
-[Ver documentación completa](index.html)
-
-**Frontend**
-
-Esta sección contiene la guía de estilo de los componentes Vue2 generada con Styleguidist.
-
-[Ver guía completa](index.html)
-
-**API**
-
-Esta sección contiene la documentación de los endpoints de la API generada con Swagger.
-
-[Abrir documentación interactiva](index.html)
-
-**5.2 Routes**
-
-User:
-
-* routes/web.php
-* app/Http/Controllers/
-* resources/js/Pages/
-* app/Models
-
-Admin:
-
-* routes/web\_admin.php
-* app/Http/Controllers/AdminOld/
-* resources/js/Pages/AdminOld
-* app/Models
-
-**532 Coding Standards**
-
-• **PHP**: Follow PSR-12 standards.
-
-• **JavaScript**: Use ES6 syntax and Vue.js best practices.
-
-• **CSS**: Utilize Tailwind CSS conventions.
-
-• **Documentation**: Keep comments and documentation up-to-date.
+##
