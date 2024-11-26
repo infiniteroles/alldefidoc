@@ -8,9 +8,11 @@ icon: rectangle-code
 
 **Backend**
 
-Esta sección contiene la documentación generada automáticamente para el backend de Laravel. Haz clic en las secciones a continuación para explorar los detalles.
+**Backend**
 
-[Ver documentación completa](index.html)
+This section is dedicated to providing a comprehensive explanation of the PHP code used in our backend systems. It serves as a guide to understanding the structure, logic, and operations that occur on the server side of our application. The information provided here is crucial for developers who are looking to gain insights into how data processing, server communication, and other backend functionalities are implemented in our system. Whether you are maintaining or extending the capabilities of our backend, this documentation will serve as a valuable resource to assist you in your tasks.
+
+
 
 **Frontend**
 
