@@ -491,9 +491,24 @@ _(Placeholder for including diagrams in PNG format.)_
 
 **5.1 Source Info**
 
-- [Backend](backend/)
-- [Frontend](frontend/)
-- [API](api/)
+**Backend**
+
+Esta sección contiene la documentación generada automáticamente para el backend de Laravel. Haz clic en las secciones a continuación para explorar los detalles.
+
+[Ver documentación completa](index.html)
+
+**Frontend**
+
+Esta sección contiene la guía de estilo de los componentes Vue2 generada con Styleguidist.
+
+[Ver guía completa](index.html)
+
+**API**
+
+Esta sección contiene la documentación de los endpoints de la API generada con Swagger.
+
+[Abrir documentación interactiva](index.html)
+
 
 **5.2 Routes**
 
